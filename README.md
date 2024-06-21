@@ -12,12 +12,12 @@
 
 | 篇章 | [`Patch`](../../tree/patch) 版 | [`Mod`](../../tree/mod) 版 |
 | ------------ | ------------ | ------------ |
-| 鬼隐篇 | [下载 1.3](../patch/onikakushi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.3](../mod/onikakushi/Assembly-CSharp.dll?raw=true "下载") |
-| 绵流篇 | [下载 1.1](../patch/watanagashi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.1](../mod/watanagashi/Assembly-CSharp.dll?raw=true "下载") |
-| 祟杀篇 | [下载 1.0](../patch/tatanagashi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.0](../mod/tatanagashi/Assembly-CSharp.dll?raw=true "下载") |
-| 暇溃篇 | [下载 1.0](../patch/himatsubushi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.0](../mod/himatsubushi/Assembly-CSharp.dll?raw=true "下载") |
+| 鬼隐篇 | [下载 1.4](../patch/onikakushi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.4](../mod/onikakushi/Assembly-CSharp.dll?raw=true "下载") |
+| 绵流篇 | [下载 1.2](../patch/watanagashi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.2](../mod/watanagashi/Assembly-CSharp.dll?raw=true "下载") |
+| 祟杀篇 | [下载 1.1](../patch/tatanagashi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.1](../mod/tatanagashi/Assembly-CSharp.dll?raw=true "下载") |
+| 暇溃篇 | [下载 1.1](../patch/himatsubushi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.1](../mod/himatsubushi/Assembly-CSharp.dll?raw=true "下载") |
 | 目明篇 | [下载 1.0](../patch/meakashi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.0](../mod/meakashi/Assembly-CSharp.dll?raw=true "下载") |
-| 罪灭篇 | [下载 1.1](../patch/tsumihoroboshi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.1](../mod/tsumihoroboshi/Assembly-CSharp.dll?raw=true "下载") |
+| 罪灭篇 | [下载 1.2](../patch/tsumihoroboshi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.2](../mod/tsumihoroboshi/Assembly-CSharp.dll?raw=true "下载") |
 | 皆杀篇 | [下载 1.0](../patch/minagoroshi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.0](../mod/minagoroshi/Assembly-CSharp.dll?raw=true "下载") |
 | 祭囃篇 | [下载 1.0](../patch/matsuribayashi/Assembly-CSharp.dll?raw=true "下载") | [下载 1.0](../mod/matsuribayashi/Assembly-CSharp.dll?raw=true "下载") |
 | 礼 | 无 | [下载 1.0](../mod/rei/Assembly-CSharp.dll?raw=true "下载") |
